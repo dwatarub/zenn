@@ -3,7 +3,7 @@ title: "ぼくがかんがえたさいきょうのターミナル環境を作る
 emoji: "⌨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CLI", "zsh", "Powerline", "環境構築"]
-published: false
+published: true
 ---
 
 ## こんなのをめざすよ
